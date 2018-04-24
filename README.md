@@ -19,7 +19,7 @@ The goal of this task is to (somewhat) fix it by building a modern single-page-a
 - Visual design files of the our desired web app are provided in this repository (links below). Your product should visually match these files to a large extent. Use the color reference and the listed resources below. Dimensions, spacing and font sizes are not expected to perfectly match.
  
 #### Part 1: Homepage
- Design: [default state](./1-index.png), [link hover](./1-homepage-link-hover.png)
+ Design: [default state](./1-homepage.png), [link hover](./1-homepage-link-hover.png)
  1. The homepage of our web app should load and display the top 10 Hacker News stories.
  2. Each story in our web app should consists of: its posting time, author name, title, URL (in most stories), score and number of comments (threads) -- You can find these all in the API docs. In addition, we would like to emphasize stories with high traction with a orange flame icon. You should consider stories with score higher than 100 or stories with at least 25 comments (threads). 
  3. Clicking on a URL in a story should open it by-default in a new browser tab.
