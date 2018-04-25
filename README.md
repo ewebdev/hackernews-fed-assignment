@@ -34,13 +34,14 @@ The goal of this task is to (somewhat) fix it by building a modern single-page-a
  4. Clicking on the logo in the navbar should navigate to the homepage. 
  5. **Bonus:** Add a loading indicator for the comments, with a real-time counter of the fetched comments.
 
+## References
 ### Colors
  - Orange: #ff6600
  - Page light-grey background: #f7f7f7
  - Text black-ish: #3e3e3e
  - Icons grey: #c5c5c5
 
-### Resources
+### Additional Resources
  - [Google Material Icons](http://google.github.io/material-design-icons/) -- The icons you should be using are: "comment", "thumb up", "whatshot", "link", "account circle".
 - ["Lato" web font](https://fonts.google.com/selection?query=lato&selection.family=Lato:400,700) -- Lato is the font that's being used in the designs.
 - [Hacker News - Homepage](https://news.ycombinator.com)
